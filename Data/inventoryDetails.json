@@ -1,0 +1,24 @@
+{
+	"inventory" : [
+	{
+	"name" : "Basmati",
+	"weight" : 50.25
+	"pricePerKg" : 65.45
+	"type" : "Rice"
+	},
+	
+	{
+	"name" : "Fortune",
+	"weight" : 25.65
+	"pricePerKg" : 15.38
+	"type" : "Pulses"
+	},
+	
+	{
+	"name" : "Aashirwad",
+	"weight" : 75.00
+	"pricePerKg" : 35.76
+	"type" : "Wheat"
+	}
+	]
+}
